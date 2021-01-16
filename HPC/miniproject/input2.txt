@@ -1,0 +1,1 @@
+This is the mini project for hpc under laboratory practicde 1. Parallel run length encoding successful.
